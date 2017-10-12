@@ -1,3 +1,4 @@
+A)
 OLW@OLW-HP MINGW64 ~/desktop/Assignment1 (master)
 $ git status
 On branch master
@@ -19,3 +20,6 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 
 OLW@OLW-HP MINGW64 ~/desktop/Assignment1 (master)
+B) 8, git shortlog
+C) Wednesday, Sept. 27th   git log ./.gitignore
+D)
