@@ -22,4 +22,9 @@ no changes added to commit (use "git add" and/or "git commit -a")
 OLW@OLW-HP MINGW64 ~/desktop/Assignment1 (master)
 B) 8, git shortlog
 C) Wednesday, Sept. 27th   git log ./.gitignore
-D)
+D)cb30d72
+E) First reason for working with branches is for when working with a group so that each member can modify and then commit changes, the second reason is for version control so that you have access to previous versions and have the ability to go back to the main branch without committing changes.
+F) git log displays differences in files while got log displays differences in commits
+G)git log --all Weapon.h
+H)git log --all --grep='file'
+I) Inheritance is when a child class takes from a parent class, Polymorphism is overloading a function of a parent class, encapsulation is what is shown or hidden within a class or data structure
